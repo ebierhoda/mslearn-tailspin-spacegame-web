@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: TAILSPIN00786
+  name: miniature spork
 
 variables:
   buildConfiguration: 'Release'
